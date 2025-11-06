@@ -2,6 +2,8 @@ Norah Kerendian
 
 nokerendian@ucsd.edu
 
+Developing lessons to ease teachers into time series data science, B04, Prof. Benjamin Smarr
+
 **1. What is the most interesting topic covered in your domain this quarter?**
 
 answer
