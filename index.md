@@ -4,21 +4,19 @@ nokerendian@ucsd.edu
 
 Developing lessons to ease teachers into time series data science, B04, Prof. Benjamin Smarr
 
-DRAFT 
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic covered in my domain so far has been the topic of deciding the audience of our project. Should we focus on an audience of young professionals who are looking to learn data science? What about an audience of high school students looking to see if they want to major in data science? What about incoming data science majors at UCSD to ease them into the rigorous data science curriculum? What about a more general audience of anyone who wants to learn how to code? What's the overlap between these audiences? How can we narrow our focus? These questions all sparked ideas as to how we even want to develop our final product. Also, this guides our research on data collection. Should we use material from Intro to Data Science courses? How should we split up the curriculum? These conversations were very interesting and made me realize the importance of having a set audience because it really drives the outcome.
+Choosing the target audience for our project has been the most fascinating topic discussed in my field thus far.  Should we concentrate on teaching data science to young professionals?  Students in high school are considering majoring in data science.  Are incoming UCSD data science majors in need of a program overview?  Or maybe everyone who wants to learn how to code in general? We also spoke about how these categories overlap and how to focus more precisely.  These questions influenced our research on data collection and generated a lot of suggestions about how we want to develop our finished product.  Should we utilize content from beginner data science courses, for instance?  How should the program be structured and paced?  These discussions made me realize how crucial it is to identify a precise target audience since it genuinely determines the course and result of a project.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-A potential investigation i would like to pursue for the quarter 2 project is looking more into the best way to gamify our lessons. How can we increase and keep engagement with our product? our inspiration for this project is to create something similar to duolingo, but instead for teaching python and data science. how can we think about presenting our material in a fun and engaging way? Looking more into the techniques and reasons behind certain aspects in duolingo could help us come up with our own methods to use in our app.  
+For the Quarter 2 assignment, I would like to look at the best ways to gamify our teachings.  How can we improve and sustain our product's user engagement?  Duolingo, which was created to educate Python and data science, served as our motivation.  In what similar ways can we make learning enjoyable and inspiring?  We can create our own interactive and captivating learning methodologies for our app by analyzing the strategies and design decisions that led to Duolingo's success.
 
 **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-A potential change I'd make to the approach taken in the current quarter 1 project is to make it into a mobile app rather than a web application. Also, creating an AI assistant to help the user live during their lessons. 
+Developing our current Quarter 1 project as a mobile application instead of a web application is one possible modification I would make.  In order to help users during classes, I would also like to incorporate a live AI assistant.  A mobile version would increase accessibility, increase user engagement, and provide our team with useful app development expertise.  Our present AI workflow, which creates questions based on our curriculum, would be expanded upon by the AI assistant.  Retrieval-Augmented Generation (RAG) would be used to reference content from our collection and give users real-time guidance while they study.
 
 **4. What other techniques would you be interested in using in your project?**
 
-answer
-
+Agent development is something I'd like to include in the project.  I imagine this being a part of the AI assistant workflow, though I'm not totally sure how it would fit.  My primary motivation is to learn how to create an agent from scratch and acquire new technological abilities.  It's a developing field in data science, and I want to use my capstone project to learn more about something that I've been very interested in.
